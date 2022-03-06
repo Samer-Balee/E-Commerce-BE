@@ -4,7 +4,7 @@
 
    Building the back end for an e-commerce site by modifying starter code by configuring a working Express.js API to use Sequelize to interact with a MySQL database.
 
-   A link to a walkthrough video that demonstrates the functionality of the app is here: [video]()
+   A link to a walkthrough video that demonstrates the functionality of the app is here: [video](https://drive.google.com/file/d/1mQMIiTbUo1AEg4o9DBiuDOZN-13wxLol/view)
 
 ```md
     AS A manager at an internet retail company
